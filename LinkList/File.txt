@@ -1,0 +1,5 @@
+1 0 Bob
+2 1 Kathy
+5 1 Anderson
+4 0 David
+3 1 Natalie
