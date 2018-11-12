@@ -1,0 +1,6 @@
+1 20 30 Apple
+2 40 90 Banana
+4 70 100 Cola
+5 90 10 Arrow
+3 67 40 Lilys
+

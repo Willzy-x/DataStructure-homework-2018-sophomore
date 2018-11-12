@@ -1,0 +1,5 @@
+ID = 1 Name = Apple Price = 20 current = 30
+ID = 2 Name = Banana Price = 40 current = 90
+ID = 3 Name = Lilys Price = 67 current = 40
+ID = 4 Name = Cola Price = 70 current = 100
+ID = 5 Name = Arrow Price = 90 current = 10
