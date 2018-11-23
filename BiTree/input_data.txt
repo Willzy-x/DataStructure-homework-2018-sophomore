@@ -1,0 +1,6 @@
+13
+a b d * * e * * c f * * *
+
+9
+A B H F D E C K G
+H B D F A E K C G
