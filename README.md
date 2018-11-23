@@ -5,7 +5,7 @@ Feel free to give it a star or leave a comment to me, if you like the codes or t
 * Sequential List(线性表)
 * Link List(链表)
 * Sequential Queue x3(3种顺序队列)
-* Sequential StacK (顺序栈包括表达式求值等应用)
+* Sequential Stack (顺序栈包括表达式求值等应用)
 * Both Stack (双向栈) 
 * String (串+KMP)
 * SparseMatrix (稀疏矩阵(三元组实现))
